@@ -31,7 +31,8 @@
         <div class="container">
             <div class="row my-3 text-center">
                 <div class="col-md-12 ">
-                    <h3>Home Posts</h3>
+                        {{-- <a href="{{ route('/home') }}"> <h3>Home Posts</h3></a> --}}
+                        <h3>Home Posts</h3>
                 </div>
             </div>
             <div class="row">

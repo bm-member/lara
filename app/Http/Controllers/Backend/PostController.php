@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use App\Post;
 use Gate;
+use Facade;
 // use App\User;
 use App\Http\Requests\PostRequest;
 
